@@ -1,2 +1,2 @@
-console.log("Hell o World!\n");
+console.log("Hello Mars!\n");
 
